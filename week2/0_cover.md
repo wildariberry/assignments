@@ -12,3 +12,4 @@
 - `3_log_reflection.md` — Code verdicts, cleaning log, and reflection.
 - `AI_USE_LOG.md` — Record of AI assistance.
 
+

@@ -18,3 +18,5 @@ Loaded the dataset using pandas and checked the first five rows with df.head() t
 
 | P5 | The date column is stored as text.                                             | `df.info()`                                                 | Investigate, then correct the format | Validate the date strings before converting them to datetime values. 
 
+
+**Snapshot commit hash:** 5ef5d9621fe7b3fc1f7a95c4eb4fbe6a02872bc5
